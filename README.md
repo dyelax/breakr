@@ -1,5 +1,5 @@
 # breakr
-A simple, nonintrusive app to get you off your ass.
+**A simple, nonintrusive app to get you off your ass.**
 
 Alerts you to stand up after 50 minutes of work, then waits to detect you've stopped working (no keyboard/mouse action), automatically pauses Spotify, and auto-resets when you resume
 
